@@ -1,4 +1,5 @@
 import ButtonGradient from './assets/svg/ButtonGradient';
+import Genenrating from './components/Genenrating';
 import Header from './components/Header';
 import Hero from './components/Hero';
 const App = () => {
