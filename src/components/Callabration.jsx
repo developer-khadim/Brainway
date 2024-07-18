@@ -2,7 +2,9 @@ import { brainwaveSymbol, check } from "../assets";
 import { collabApps, collabContent, collabText } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
+import { GradientLight } from "./design/Benefits";
 import { LeftCurve, RightCurve } from "./design/Collaboration";
+import { Gradient } from "./design/Hero";
 
 const Callabration = () => {
   return (
